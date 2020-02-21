@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\oscarcv1\Documents\GitHub\HelloSDL\Project1\main.cpp(24,26): error C3861:  'getResourcePath': identifier not found
