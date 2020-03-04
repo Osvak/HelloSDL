@@ -11,7 +11,7 @@
 #define WINDOW_WIDTH	1024
 #define WINDOW_HEIGHT	768
 #define MAX_KEYS		256
-#define MAX_SHOTS		32
+#define MAX_SHOTS		128
 #define PLAYER_WIDTH	104
 #define PLAYER_HEIGHT	82
 #define PROJ_WIDTH		56
